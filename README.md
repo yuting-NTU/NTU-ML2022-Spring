@@ -1,2 +1,8 @@
 # ML2022-Spring
-NTU 台大  Hung-yi Lee 李宏毅 2022 作業
+
+## Kaggle
+HW   | public | private|
+-----|:-------:|-------:|
+1    | 294/948 | 313/948|
+2    |     |     |
+3    |     |     | 
