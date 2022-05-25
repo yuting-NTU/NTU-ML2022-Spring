@@ -9,4 +9,8 @@ HW   | public | private | baseline |
 4    |  10/521 |  9/521  | boss   |
 5    | 226/396 | 181/396 | strong |
 6    |  73/438 |  73/438 | boss   |
+7    |  113/495|  154/495| strong |
+8    |  109/499|  99/499 | strong |
+9    |         |         | boss   |
+10   |  /438 |  /438 | boss   |
 
