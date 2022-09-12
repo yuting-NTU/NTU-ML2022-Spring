@@ -14,3 +14,5 @@ HW   | public | private | baseline |
 9    |         |         | 9.3/10 |
 
 
+https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php  
+https://github.com/virginiakm1988/ML2022-Spring  
